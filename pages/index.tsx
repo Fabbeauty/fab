@@ -20,7 +20,7 @@ const Home: NextPage = () => {
       <Box
         w="full"
         h="calc(100vh)"
-        bgImage={"url(/home-background.svg)"}
+        bgImage={"url(/home-background.png)"}
         backgroundPosition="center"
       >
         <Stack w="full" h="calc(100vh)" justify="center">
